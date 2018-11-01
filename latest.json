@@ -3,6 +3,10 @@
     "1.2.5": [
       "您好，我是晓将",
       "您好，这是魏丽改的"
+    ],
+    "1.2.6": [
+      "您好，我是晓将",
+      "666"
     ]
   },
 
@@ -10,12 +14,12 @@
     "ios_default": {
       "force": false,
       "url": "http://xxx/ios/default",
-      "version": "1.2.5"
+      "version": "1.2.6"
     },
     "ios_enterprise": {
       "force": false,
       "url": "http://akeywallet.com",
-      "version": "1.2.5"
+      "version": "1.2.6"
     },
     "android_default": {
       "force": false,
