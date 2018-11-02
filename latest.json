@@ -1,40 +1,35 @@
 {
   "logs": {
-    "1.2.5": [
-      "您好，目前在测试升级",
-      "android"
-    ],
-    "1.2.6": [
-      "您好，目前在测试升级",
-      "ios"
+    "1.0.3": [
+      "您好，AKey Wallet正式上线！"
     ]
   },
 
   "market": {
     "ios_default": {
       "force": false,
-      "url": "http://xxx/ios/default",
-      "version": "1.2.6"
+      "url": "https://akeywallet.com",
+      "version": "1.0.3"
     },
     "ios_enterprise": {
       "force": false,
-      "url": "https://fir.im/flkq",
-      "version": "1.3.6"
+      "url": "https://akeywallet.com",
+      "version": "1.0.3"
     },
     "android_default": {
       "force": false,
       "url": "http://download.fir.im/apps/5b482250959d6945590b6063/install?download_token=7b6f082d521c5befb72e9f1d03b3f7bf",
-      "version": "1.2.5"
+      "version": "1.0.3"
     },
     "android_xiaomi": {
       "force": false,
       "url": "http://download.fir.im/apps/5b482250959d6945590b6063/install?download_token=7b6f082d521c5befb72e9f1d03b3f7bf",
-      "version": "1.2.5"
+      "version": "1.0.3"
     },
     "android_huawei": {
       "force": false,
       "url": "http://download.fir.im/apps/5b482250959d6945590b6063/install?download_token=7b6f082d521c5befb72e9f1d03b3f7bf",
-      "version": "1.2.5"
+      "version": "1.0.3"
     }
   }
 }
